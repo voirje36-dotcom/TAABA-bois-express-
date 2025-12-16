@@ -1,0 +1,16 @@
+<header>
+  <h1>TAABA BOIS EXPRESS</h1>
+  <p>Livraison rapide de bois de chauffage partout en France</p>
+  <a href="#commande">Commander</a>
+</header>
+
+<section id="produits">
+  <h2>Nos produits</h2>
+  <p>Bois de chauffage en stère – 50, 33, 25 cm</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Téléphone : +33 7 56 82 68 62</p>
+  <p>Email : taababoisexpress@gmail.com</p>
+</section>
